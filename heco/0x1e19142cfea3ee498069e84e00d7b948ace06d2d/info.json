@@ -1,0 +1,11 @@
+{
+ "name": "BITC",
+ "website": "https://www.bitcloud-home.com",
+ "description": "BITCLOUD简称BITC,中文名比特云，作为区块链技术的更新迭代研发中心，同时担负起了引领整个行业技术革新的重任，我们将不辱使命砥砺前行!",
+ "explorer": "https://hecoinfo.com/token/0x1e19142cfea3ee498069e84e00d7b948ace06d2d",
+ "type": "HECO",
+ "symbol": "BITC",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x1e19142cfea3ee498069e84e00d7b948ace06d2d"
+}
